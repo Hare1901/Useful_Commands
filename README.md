@@ -3,7 +3,8 @@
 
 # Pycharm
 
-- pip freeze > requirements.txt -- Добавляем все установленные библиотеки с версиями в фаил requirements.txt 
+- pip freeze > requirements.txt -- Добавляем все установленные библиотеки с версиями в фаил requirements.txt
+- pip install -r requirements.txt -- Устанавливаем все пакеты из файла requirements.txt
 
 # Git
 
